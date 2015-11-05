@@ -47,6 +47,7 @@ for ($i = $all_marks->length; --$i >= 0; ) {
   
   if ($pmark->childNodes->length != 5){
     echo "ERROR!!!! Not enough children of $name";
+    $err_cnt++;
     continue;
   }
   

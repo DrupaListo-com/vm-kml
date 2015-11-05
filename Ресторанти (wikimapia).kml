@@ -1,0 +1,804 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Ресторанти (wikimapia)</name>
+		<Placemark>
+			<name>Restaurant (en)</name>
+			<description><![CDATA[Restaurant (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/23216561/Restaurant#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.930826,43.970318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant Balanoaia Forest (en)</name>
+			<description><![CDATA[Restaurant Balanoaia Forest (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/23216639/Restaurant-Balanoaia-Forest#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.930819,43.93057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мегамол</name>
+			<description><![CDATA[Мегамол <br> View or update this place information at Wikimapia. (http://wikimapia.org/16090401/bg/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BC%D0%BE%D0%BB#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.959092,43.857744,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел &amp;quot;Ханчето&amp;quot; (Русенското ханче)</name>
+			<description><![CDATA[Мотел "Ханчето" (Русенското ханче) <br> View or update this place information at Wikimapia. (http://wikimapia.org/20989163/bg/%D0%9C%D0%BE%D1%82%D0%B5%D0%BB-%D0%A5%D0%B0%D0%BD%D1%87%D0%B5%D1%82%D0%BE-%D0%A0%D1%83%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D1%82%D0%BE-%D1%85%D0%B0%D0%BD%D1%87%D0%B5#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.015776,43.779583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел  &amp;quot;Дервента&amp;quot;</name>
+			<description><![CDATA[Мотел  "Дервента" <br> View or update this place information at Wikimapia. (http://wikimapia.org/23052691/bg/%D0%9C%D0%BE%D1%82%D0%B5%D0%BB-%D0%94%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D1%82%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.278224,43.596955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Крайпътен ресторант &amp;quot;Байкал&amp;quot;</name>
+			<description><![CDATA[Крайпътен ресторант "Байкал" <br> View or update this place information at Wikimapia. (http://wikimapia.org/19411982/bg/%D0%9A%D1%80%D0%B0%D0%B9%D0%BF%D1%8A%D1%82%D0%B5%D0%BD-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.817844,43.555783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Индийски колиби&amp;quot;</name>
+			<description><![CDATA[Ресторант "Индийски колиби" <br> View or update this place information at Wikimapia. (http://wikimapia.org/25986291/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BB%D0%B8%D0%B1%D0%B8#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.898981,43.67989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Люляка (Hotel Lyulyaka) (en)</name>
+			<description><![CDATA[Хотел Люляка (Hotel Lyulyaka) (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/18658150/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9B%D1%8E%D0%BB%D1%8F%D0%BA%D0%B0-Hotel-Lyulyaka#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.912065,43.8011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант и винарска изба &amp;quot;Левента&amp;quot;.</name>
+			<description><![CDATA[Ресторант и винарска изба "Левента". <br> View or update this place information at Wikimapia. (http://wikimapia.org/9318403/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%B8-%D0%B2%D0%B8%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B0-%D0%B8%D0%B7%D0%B1%D0%B0-%D0%9B%D0%B5%D0%B2%D0%B5%D0%BD%D1%82%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.957829,43.824753,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Шилковата кръчма</name>
+			<description><![CDATA[Шилковата кръчма <br> View or update this place information at Wikimapia. (http://wikimapia.org/18876492/bg/%D0%A8%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D0%B0-%D0%BA%D1%80%D1%8A%D1%87%D0%BC%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.98122,43.73814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local  summer fish restaurants (en)</name>
+			<description><![CDATA[Local  summer fish restaurants (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/16397837/Local-summer-fish-restaurants#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.245402,43.995389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant PERLA (en)</name>
+			<description><![CDATA[Restaurant PERLA (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/6981998/Restaurant-PERLA#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.966771,43.87054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Парк ресторант - Хотел &amp;quot;Дунав плаза&amp;quot;</name>
+			<description><![CDATA[Парк ресторант - Хотел "Дунав плаза" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24604217/bg/%D0%9F%D0%B0%D1%80%D0%BA-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%94%D1%83%D0%BD%D0%B0%D0%B2-%D0%BF%D0%BB%D0%B0%D0%B7%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.955088,43.849227,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Семеен хотел &amp;quot;Орехите&amp;quot;</name>
+			<description><![CDATA[Семеен хотел "Орехите" <br> View or update this place information at Wikimapia. (http://wikimapia.org/21949917/bg/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B5%D0%BD-%D1%85%D0%BE%D1%82%D0%B5%D0%BB-%D0%9E%D1%80%D0%B5%D1%85%D0%B8%D1%82%D0%B5#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95191,43.715681,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Кенор&amp;quot;</name>
+			<description><![CDATA[Ресторант "Кенор" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24536464/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%9A%D0%B5%D0%BD%D0%BE%D1%80#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.967128,43.858468,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Приетения (ru)</name>
+			<description><![CDATA[Приетения (ru) <br> View or update this place information at Wikimapia. (http://wikimapia.org/25633049/Prietenia#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.980292,43.908852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел „Космополитен“</name>
+			<description><![CDATA[Хотел „Космополитен“ <br> View or update this place information at Wikimapia. (http://wikimapia.org/7496781/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%E2%80%9E%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD%E2%80%9C#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.949719000000005,43.845542,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Отель-ресторан &amp;quot;Анадалузия&amp;quot; (ru)</name>
+			<description><![CDATA[Отель-ресторан "Анадалузия" (ru) <br> View or update this place information at Wikimapia. (http://wikimapia.org/21318856/ru/%D0%9E%D1%82%D0%B5%D0%BB%D1%8C-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD-%D0%90%D0%BD%D0%B0%D0%B4%D0%B0%D0%BB%D1%83%D0%B7%D0%B8%D1%8F#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.974539,43.92785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Басейн и ресторант</name>
+			<description><![CDATA[Басейн и ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/33434240/bg/%D0%91%D0%B0%D1%81%D0%B5%D0%B9%D0%BD-%D0%B8-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.973664,43.735306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел &amp;quot;Магнолия&amp;quot;</name>
+			<description><![CDATA[Мотел "Магнолия" <br> View or update this place information at Wikimapia. (http://wikimapia.org/28243213/bg/%D0%9C%D0%BE%D1%82%D0%B5%D0%BB-%D0%9C%D0%B0%D0%B3%D0%BD%D0%BE%D0%BB%D0%B8%D1%8F#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.714735,43.46885000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parizh/MOMO (en)</name>
+			<description><![CDATA[Parizh/MOMO (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/18570459/Parizh-MOMO#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.974177000000005,43.859049,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Търговски комплекс</name>
+			<description><![CDATA[Търговски комплекс <br> View or update this place information at Wikimapia. (http://wikimapia.org/23480104/bg/%D0%A2%D1%8A%D1%80%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.205418000000005,43.942259,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Плувен комплекс &amp;quot;Гунди&amp;quot;</name>
+			<description><![CDATA[Плувен комплекс "Гунди" <br> View or update this place information at Wikimapia. (http://wikimapia.org/20075219/bg/%D0%9F%D0%BB%D1%83%D0%B2%D0%B5%D0%BD-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D0%93%D1%83%D0%BD%D0%B4%D0%B8#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.875226,43.591489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Комплекс Извора</name>
+			<description><![CDATA[Хотел Комплекс Извора <br> View or update this place information at Wikimapia. (http://wikimapia.org/18585354/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D0%98%D0%B7%D0%B2%D0%BE%D1%80%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.947895,43.842488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Разклона&amp;quot;</name>
+			<description><![CDATA[Ресторант "Разклона" <br> View or update this place information at Wikimapia. (http://wikimapia.org/23046451/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%A0%D0%B0%D0%B7%D0%BA%D0%BB%D0%BE%D0%BD%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.311988,43.974654,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Трите бора&amp;quot;</name>
+			<description><![CDATA[Ресторант "Трите бора" <br> View or update this place information at Wikimapia. (http://wikimapia.org/17790976/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%A2%D1%80%D0%B8%D1%82%D0%B5-%D0%B1%D0%BE%D1%80%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.87931,43.406302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Плаващ ресторант &amp;quot;Понтона&amp;quot;</name>
+			<description><![CDATA[Плаващ ресторант "Понтона" <br> View or update this place information at Wikimapia. (http://wikimapia.org/28327038/bg/%D0%9F%D0%BB%D0%B0%D0%B2%D0%B0%D1%89-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%9F%D0%BE%D0%BD%D1%82%D0%BE%D0%BD%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95264,43.855758,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Баба Яга&amp;quot;</name>
+			<description><![CDATA[Ресторант "Баба Яга" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24536468/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%91%D0%B0%D0%B1%D0%B0-%D0%AF%D0%B3%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.964607,43.857588,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ирландски пъб &amp;quot;Тераса&amp;quot;</name>
+			<description><![CDATA[Ирландски пъб "Тераса" <br> View or update this place information at Wikimapia. (http://wikimapia.org/22713155/bg/%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8-%D0%BF%D1%8A%D0%B1-%D0%A2%D0%B5%D1%80%D0%B0%D1%81%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.948922,43.850457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>restaurantul Ruse (ro)</name>
+			<description><![CDATA[restaurantul Ruse (ro) <br> View or update this place information at Wikimapia. (http://wikimapia.org/1998073/ro/restaurantul-Ruse#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.968515,43.892366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Дунавски кът</name>
+			<description><![CDATA[Дунавски кът <br> View or update this place information at Wikimapia. (http://wikimapia.org/21434137/bg/%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B8-%D0%BA%D1%8A%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.971591,43.862099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant Rustik (ro)</name>
+			<description><![CDATA[Restaurant Rustik (ro) <br> View or update this place information at Wikimapia. (http://wikimapia.org/8287765/ro/Restaurant-Rustik#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.966138,43.904589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/32304175/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.746269000000005,43.462075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел &amp;quot;Формула 1&amp;quot;</name>
+			<description><![CDATA[Мотел "Формула 1" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24511779/bg/%D0%9C%D0%BE%D1%82%D0%B5%D0%BB-%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-1#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.722147,43.468801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pizetto Bar &amp;amp; Grill (ro)</name>
+			<description><![CDATA[Pizetto Bar & Grill (ro) <br> View or update this place information at Wikimapia. (http://wikimapia.org/12389152/ro/Pizetto-Bar-Grill#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.969223,43.894216,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant &amp;quot;Alei&amp;quot; (en)</name>
+			<description><![CDATA[Restaurant "Alei" (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/24802250/Restaurant-Alei#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.963795,43.885607,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drink&amp;amp;Food Piccadilly (en)</name>
+			<description><![CDATA[Drink&Food Piccadilly (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/23173226/Drink-Food-Piccadilly#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95523,43.851087,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант „Артисти“</name>
+			<description><![CDATA[Ресторант „Артисти“ <br> View or update this place information at Wikimapia. (http://wikimapia.org/7620510/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%E2%80%9E%D0%90%D1%80%D1%82%D0%B8%D1%81%D1%82%D0%B8%E2%80%9C#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.989064,43.85108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Scufita Rosie (ro)</name>
+			<description><![CDATA[La Scufita Rosie (ro) <br> View or update this place information at Wikimapia. (http://wikimapia.org/18705396/ro/La-Scufita-Rosie#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.120879,43.997206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бистро Сан Марино</name>
+			<description><![CDATA[Бистро Сан Марино <br> View or update this place information at Wikimapia. (http://wikimapia.org/22827510/bg/%D0%91%D0%B8%D1%81%D1%82%D1%80%D0%BE-%D0%A1%D0%B0%D0%BD-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.954176,43.845894,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Happy Fast Food (en)</name>
+			<description><![CDATA[Happy Fast Food (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/11862285/Happy-Fast-Food#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.952435,43.848282,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Лидо&amp;quot;</name>
+			<description><![CDATA[Ресторант "Лидо" <br> View or update this place information at Wikimapia. (http://wikimapia.org/27056297/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%9B%D0%B8%D0%B4%D0%BE#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.810047,43.487176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант Mario&amp;#039;s 2</name>
+			<description><![CDATA[Ресторант Mario's 2 <br> View or update this place information at Wikimapia. (http://wikimapia.org/24603471/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-Mario-s-2#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.947988000000002,43.848062,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rotonda restaurant (en)</name>
+			<description><![CDATA[Rotonda restaurant (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/17968097/Rotonda-restaurant#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.084094,43.919994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Салатен салон Рила</name>
+			<description><![CDATA[Салатен салон Рила <br> View or update this place information at Wikimapia. (http://wikimapia.org/9523418/bg/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D0%B5%D0%BD-%D1%81%D0%B0%D0%BB%D0%BE%D0%BD-%D0%A0%D0%B8%D0%BB%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.954924,43.842132,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Vlaşca (en)</name>
+			<description><![CDATA[Hotel Vlaşca (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/21252796/Hotel-Vla%C5%9Fca#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.966766,43.88873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Янтра&amp;quot;</name>
+			<description><![CDATA[Ресторант "Янтра" <br> View or update this place information at Wikimapia. (http://wikimapia.org/32304902/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%AF%D0%BD%D1%82%D1%80%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.737705,43.45944800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант-бар &amp;quot;Даскалови&amp;quot;</name>
+			<description><![CDATA[Ресторант-бар "Даскалови" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24254473/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%B1%D0%B0%D1%80-%D0%94%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.874963000000005,43.40501,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Механа &amp;quot;Калимок&amp;quot;</name>
+			<description><![CDATA[Механа "Калимок" <br> View or update this place information at Wikimapia. (http://wikimapia.org/23616068/bg/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B0-%D0%9A%D0%B0%D0%BB%D0%B8%D0%BC%D0%BE%D0%BA#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.463689,44.000647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shop (en)</name>
+			<description><![CDATA[Shop (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/21218571/Shop#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.877716000000003,43.403286,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант Mario&amp;#039;s</name>
+			<description><![CDATA[Ресторант Mario's <br> View or update this place information at Wikimapia. (http://wikimapia.org/21690915/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-Mario-s#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.959842,43.849902,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Болгар&amp;quot;</name>
+			<description><![CDATA[Ресторант "Болгар" <br> View or update this place information at Wikimapia. (http://wikimapia.org/33481882/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.956421,43.852913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бивш ресторант &amp;quot;Дунавски кът&amp;quot;</name>
+			<description><![CDATA[Бивш ресторант "Дунавски кът" <br> View or update this place information at Wikimapia. (http://wikimapia.org/19511184/bg/%D0%91%D0%B8%D0%B2%D1%88-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B8-%D0%BA%D1%8A%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.109231,43.951734,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/17242049/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.976489,43.704139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Салатен салон Пристан</name>
+			<description><![CDATA[Салатен салон Пристан <br> View or update this place information at Wikimapia. (http://wikimapia.org/9523433/bg/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D0%B5%D0%BD-%D1%81%D0%B0%D0%BB%D0%BE%D0%BD-%D0%9F%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.955755,43.844594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/31600948/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.741553,43.458865,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;La Strada&amp;quot;</name>
+			<description><![CDATA[Ресторант "La Strada" <br> View or update this place information at Wikimapia. (http://wikimapia.org/21434120/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-La-Strada#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.955387,43.851198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Механа &amp;quot;Сръбски мерак&amp;quot;</name>
+			<description><![CDATA[Механа "Сръбски мерак" <br> View or update this place information at Wikimapia. (http://wikimapia.org/6331804/bg/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B0-%D0%A1%D1%80%D1%8A%D0%B1%D1%81%D0%BA%D0%B8-%D0%BC%D0%B5%D1%80%D0%B0%D0%BA#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.953305,43.83895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Приятели&amp;quot;</name>
+			<description><![CDATA[Ресторант "Приятели" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24562733/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%B5%D0%BB%D0%B8#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95028,43.851346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Италиански ресторант &amp;quot;Слънчевата къща&amp;quot;</name>
+			<description><![CDATA[Италиански ресторант "Слънчевата къща" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24603814/bg/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%A1%D0%BB%D1%8A%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%82%D0%B0-%D0%BA%D1%8A%D1%89%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95332,43.847076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/29501575/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.901609000000004,43.458355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Петък вечер&amp;quot;</name>
+			<description><![CDATA[Ресторант "Петък вечер" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24594366/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%9F%D0%B5%D1%82%D1%8A%D0%BA-%D0%B2%D0%B5%D1%87%D0%B5%D1%80#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.965674,43.847354,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/24532436/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.288267,43.817372,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/24603336/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.082473,43.847369,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Амфибия&amp;quot;</name>
+			<description><![CDATA[Ресторант "Амфибия" <br> View or update this place information at Wikimapia. (http://wikimapia.org/25291136/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%90%D0%BC%D1%84%D0%B8%D0%B1%D0%B8%D1%8F#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.952011,43.846223,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Барче</name>
+			<description><![CDATA[Барче <br> View or update this place information at Wikimapia. (http://wikimapia.org/22842447/bg/%D0%91%D0%B0%D1%80%D1%87%D0%B5#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.963512,43.829508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Останкино&amp;quot;</name>
+			<description><![CDATA[Ресторант "Останкино" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24603865/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%9E%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D0%BE#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.957524,43.852277,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ул. Константин Иречек, 5</name>
+			<description><![CDATA[ул. Константин Иречек, 5 <br> View or update this place information at Wikimapia. (http://wikimapia.org/27528829/bg/%D1%83%D0%BB-%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD-%D0%98%D1%80%D0%B5%D1%87%D0%B5%D0%BA-5#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.950581,43.846503,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Снек бар &amp;quot;Бялата къща&amp;quot;</name>
+			<description><![CDATA[Снек бар "Бялата къща" <br> View or update this place information at Wikimapia. (http://wikimapia.org/31775569/bg/%D0%A1%D0%BD%D0%B5%D0%BA-%D0%B1%D0%B0%D1%80-%D0%91%D1%8F%D0%BB%D0%B0%D1%82%D0%B0-%D0%BA%D1%8A%D1%89%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.734986,43.46066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/27285223/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.235093,43.93033,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бага  Бар</name>
+			<description><![CDATA[Бага  Бар <br> View or update this place information at Wikimapia. (http://wikimapia.org/23970067/bg/%D0%91%D0%B0%D0%B3%D0%B0-%D0%91%D0%B0%D1%80#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.979911,43.83101,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Плаза&amp;quot;</name>
+			<description><![CDATA[Хотел "Плаза" <br> View or update this place information at Wikimapia. (http://wikimapia.org/23540380/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9F%D0%BB%D0%B0%D0%B7%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.960004,43.852657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Старата Къща&amp;quot;</name>
+			<description><![CDATA[Ресторант "Старата Къща" <br> View or update this place information at Wikimapia. (http://wikimapia.org/33813363/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%82%D0%B0-%D0%9A%D1%8A%D1%89%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.874995,43.591183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант &amp;quot;Friendly haus&amp;quot;</name>
+			<description><![CDATA[Ресторант "Friendly haus" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24602810/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-Friendly-haus#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95329,43.847919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/30856134/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.873119,43.641292,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел-ресторант-бар &amp;quot;Верона&amp;quot;</name>
+			<description><![CDATA[Хотел-ресторант-бар "Верона" <br> View or update this place information at Wikimapia. (http://wikimapia.org/31771074/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%B1%D0%B0%D1%80-%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.734634,43.460772,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Барбекю - градина &amp;quot;Зад стената&amp;quot;</name>
+			<description><![CDATA[Барбекю - градина "Зад стената" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24603041/bg/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D0%BA%D1%8E-%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0-%D0%97%D0%B0%D0%B4-%D1%81%D1%82%D0%B5%D0%BD%D0%B0%D1%82%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.950591,43.847383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант <br> View or update this place information at Wikimapia. (http://wikimapia.org/32304969/bg/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.737126,43.458144,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бистро &amp;quot;Вазата&amp;quot;</name>
+			<description><![CDATA[Бистро "Вазата" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24536461/bg/%D0%91%D0%B8%D1%81%D1%82%D1%80%D0%BE-%D0%92%D0%B0%D0%B7%D0%B0%D1%82%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.963806,43.856383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1085'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

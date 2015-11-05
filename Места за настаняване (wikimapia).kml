@@ -1,0 +1,734 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Места за настаняване (wikimapia)</name>
+		<Placemark>
+			<name>Хотел Кованлъка</name>
+			<description><![CDATA[Хотел Кованлъка <br> View or update this place information at Wikimapia. (http://wikimapia.org/19613904/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9A%D0%BE%D0%B2%D0%B0%D0%BD%D0%BB%D1%8A%D0%BA%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.47343,43.466559000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотелски комплекс „Роял Палас“</name>
+			<description><![CDATA[Хотелски комплекс „Роял Палас“ <br> View or update this place information at Wikimapia. (http://wikimapia.org/22575601/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%E2%80%9E%D0%A0%D0%BE%D1%8F%D0%BB-%D0%9F%D0%B0%D0%BB%D0%B0%D1%81%E2%80%9C#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.164608000000005,43.664131,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Винарски комплекс &amp;quot;Седем поколения&amp;quot;</name>
+			<description><![CDATA[Винарски комплекс "Седем поколения" <br> View or update this place information at Wikimapia. (http://wikimapia.org/33283228/bg/%D0%92%D0%B8%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D0%A1%D0%B5%D0%B4%D0%B5%D0%BC-%D0%BF%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.815261,43.710566,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вила Здравец</name>
+			<description><![CDATA[Вила Здравец <br> View or update this place information at Wikimapia. (http://wikimapia.org/28243394/bg/%D0%92%D0%B8%D0%BB%D0%B0-%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%B5%D1%86#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.810992,43.445468,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Steaua Dunarii (en)</name>
+			<description><![CDATA[Hotel Steaua Dunarii (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/2210572/Hotel-Steaua-Dunarii#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.98007,43.899686,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Люляка (Hotel Lyulyaka) (en)</name>
+			<description><![CDATA[Хотел Люляка (Hotel Lyulyaka) (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/18658150/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9B%D1%8E%D0%BB%D1%8F%D0%BA%D0%B0-Hotel-Lyulyaka#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.912065,43.8011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Рига</name>
+			<description><![CDATA[Хотел Рига <br> View or update this place information at Wikimapia. (http://wikimapia.org/6650916/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%A0%D0%B8%D0%B3%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.951751,43.85335100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Биовет&amp;quot;</name>
+			<description><![CDATA[Хотел "Биовет" <br> View or update this place information at Wikimapia. (http://wikimapia.org/23052347/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%91%D0%B8%D0%BE%D0%B2%D0%B5%D1%82#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.472014000000005,43.472684,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Семеен хотел &amp;quot;Орехите&amp;quot;</name>
+			<description><![CDATA[Семеен хотел "Орехите" <br> View or update this place information at Wikimapia. (http://wikimapia.org/21949917/bg/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B5%D0%BD-%D1%85%D0%BE%D1%82%D0%B5%D0%BB-%D0%9E%D1%80%D0%B5%D1%85%D0%B8%D1%82%D0%B5#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95191,43.715681,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Приетения (ru)</name>
+			<description><![CDATA[Приетения (ru) <br> View or update this place information at Wikimapia. (http://wikimapia.org/25633049/Prietenia#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.980292,43.908852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Дунав плаза&amp;quot;</name>
+			<description><![CDATA[Хотел "Дунав плаза" <br> View or update this place information at Wikimapia. (http://wikimapia.org/7204980/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%94%D1%83%D0%BD%D0%B0%D0%B2-%D0%BF%D0%BB%D0%B0%D0%B7%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.954685,43.849048,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотелски комплекс &amp;quot;Дивайнс&amp;quot;</name>
+			<description><![CDATA[Хотелски комплекс "Дивайнс" <br> View or update this place information at Wikimapia. (http://wikimapia.org/26361083/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D0%94%D0%B8%D0%B2%D0%B0%D0%B9%D0%BD%D1%81#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.951409000000005,43.719287,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел „Космополитен“</name>
+			<description><![CDATA[Хотел „Космополитен“ <br> View or update this place information at Wikimapia. (http://wikimapia.org/7496781/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%E2%80%9E%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD%E2%80%9C#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.949719000000005,43.845542,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Отель-ресторан &amp;quot;Анадалузия&amp;quot; (ru)</name>
+			<description><![CDATA[Отель-ресторан "Анадалузия" (ru) <br> View or update this place information at Wikimapia. (http://wikimapia.org/21318856/ru/%D0%9E%D1%82%D0%B5%D0%BB%D1%8C-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD-%D0%90%D0%BD%D0%B0%D0%B4%D0%B0%D0%BB%D1%83%D0%B7%D0%B8%D1%8F#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.974539,43.92785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Есперанто</name>
+			<description><![CDATA[Хотел Есперанто <br> View or update this place information at Wikimapia. (http://wikimapia.org/21393464/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%95%D1%81%D0%BF%D0%B5%D1%80%D0%B0%D0%BD%D1%82%D0%BE#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.634763,43.369814000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Брани,,</name>
+			<description><![CDATA[Хотел "Брани,, <br> View or update this place information at Wikimapia. (http://wikimapia.org/14549670/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%91%D1%80%D0%B0%D0%BD%D0%B8#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.950217,43.83129,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел &amp;quot;Магнолия&amp;quot;</name>
+			<description><![CDATA[Мотел "Магнолия" <br> View or update this place information at Wikimapia. (http://wikimapia.org/28243213/bg/%D0%9C%D0%BE%D1%82%D0%B5%D0%BB-%D0%9C%D0%B0%D0%B3%D0%BD%D0%BE%D0%BB%D0%B8%D1%8F#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.714735,43.46885000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Отель &amp;quot;Космо&amp;quot; (ru)</name>
+			<description><![CDATA[Отель "Космо" (ru) <br> View or update this place information at Wikimapia. (http://wikimapia.org/17522802/Hotel-Cosmo#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.971294,43.914764,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Sud (en)</name>
+			<description><![CDATA[Hotel Sud (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/9618556/Hotel-Sud#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.97653,43.907058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Комплекс Извора</name>
+			<description><![CDATA[Хотел Комплекс Извора <br> View or update this place information at Wikimapia. (http://wikimapia.org/18585354/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D0%98%D0%B7%D0%B2%D0%BE%D1%80%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.947895,43.842488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел</name>
+			<description><![CDATA[Хотел <br> View or update this place information at Wikimapia. (http://wikimapia.org/24955048/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.058232,43.647656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Бедрум плейс&amp;quot;</name>
+			<description><![CDATA[Хотел "Бедрум плейс" <br> View or update this place information at Wikimapia. (http://wikimapia.org/25686556/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%91%D0%B5%D0%B4%D1%80%D1%83%D0%BC-%D0%BF%D0%BB%D0%B5%D0%B9%D1%81#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.969344,43.842678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел „Кристал“</name>
+			<description><![CDATA[Хотел „Кристал“ <br> View or update this place information at Wikimapia. (http://wikimapia.org/10210124/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%E2%80%9E%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%E2%80%9C#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.948433,43.84330200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Ана Палас</name>
+			<description><![CDATA[Хотел Ана Палас <br> View or update this place information at Wikimapia. (http://wikimapia.org/7496795/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%90%D0%BD%D0%B0-%D0%9F%D0%B0%D0%BB%D0%B0%D1%81#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.946745,43.847574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Клуб &amp;quot;Валдес&amp;quot;</name>
+			<description><![CDATA[Клуб "Валдес" <br> View or update this place information at Wikimapia. (http://wikimapia.org/22276424/bg/%D0%9A%D0%BB%D1%83%D0%B1-%D0%92%D0%B0%D0%BB%D0%B4%D0%B5%D1%81#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.952711,43.718218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Виктория</name>
+			<description><![CDATA[Хотел Виктория <br> View or update this place information at Wikimapia. (http://wikimapia.org/26119484/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.963944,43.890808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Горски дом</name>
+			<description><![CDATA[Горски дом <br> View or update this place information at Wikimapia. (http://wikimapia.org/23538288/bg/%D0%93%D0%BE%D1%80%D1%81%D0%BA%D0%B8-%D0%B4%D0%BE%D0%BC#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.02024,43.679088,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел &amp;quot;Формула 1&amp;quot;</name>
+			<description><![CDATA[Мотел "Формула 1" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24511779/bg/%D0%9C%D0%BE%D1%82%D0%B5%D0%BB-%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-1#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.722147,43.468801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Черният щъркел&amp;quot;</name>
+			<description><![CDATA[Хотел "Черният щъркел" <br> View or update this place information at Wikimapia. (http://wikimapia.org/20990915/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%A7%D0%B5%D1%80%D0%BD%D0%B8%D1%8F%D1%82-%D1%89%D1%8A%D1%80%D0%BA%D0%B5%D0%BB#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.071352000000005,43.654031,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Бест Уестърн&amp;quot;</name>
+			<description><![CDATA[Хотел "Бест Уестърн" <br> View or update this place information at Wikimapia. (http://wikimapia.org/9286627/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%91%D0%B5%D1%81%D1%82-%D0%A3%D0%B5%D1%81%D1%82%D1%8A%D1%80%D0%BD#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.954994,43.845882,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Вега</name>
+			<description><![CDATA[Хотел Вега <br> View or update this place information at Wikimapia. (http://wikimapia.org/21865484/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%92%D0%B5%D0%B3%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.954628,43.85001700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел</name>
+			<description><![CDATA[Хотел <br> View or update this place information at Wikimapia. (http://wikimapia.org/27800356/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.986181,43.908266,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Дунав</name>
+			<description><![CDATA[Хотел Дунав <br> View or update this place information at Wikimapia. (http://wikimapia.org/19496860/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%94%D1%83%D0%BD%D0%B0%D0%B2#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.97743,43.844937,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотелски комплекс &amp;quot;ВАДИС&amp;quot;</name>
+			<description><![CDATA[Хотелски комплекс "ВАДИС" <br> View or update this place information at Wikimapia. (http://wikimapia.org/20892531/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D0%92%D0%90%D0%94%D0%98%D0%A1#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95207,43.837038,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Сплендид&amp;quot;</name>
+			<description><![CDATA[Хотел "Сплендид" <br> View or update this place information at Wikimapia. (http://wikimapia.org/14158970/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%A1%D0%BF%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%B4#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.951284,43.84817,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Vlaşca (en)</name>
+			<description><![CDATA[Hotel Vlaşca (en) <br> View or update this place information at Wikimapia. (http://wikimapia.org/21252796/Hotel-Vla%C5%9Fca#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.966766,43.88873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Русенски Лом</name>
+			<description><![CDATA[Хотел Русенски Лом <br> View or update this place information at Wikimapia. (http://wikimapia.org/23039736/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%A0%D1%83%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%9B%D0%BE%D0%BC#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.995421,43.660745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел „Милениа“ **</name>
+			<description><![CDATA[Хотел „Милениа“ ** <br> View or update this place information at Wikimapia. (http://wikimapia.org/20210222/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%E2%80%9E%D0%9C%D0%B8%D0%BB%D0%B5%D0%BD%D0%B8%D0%B0%E2%80%9C#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.976595,43.856289,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Сити Арт Хотел</name>
+			<description><![CDATA[Сити Арт Хотел <br> View or update this place information at Wikimapia. (http://wikimapia.org/24603695/bg/%D0%A1%D0%B8%D1%82%D0%B8-%D0%90%D1%80%D1%82-%D0%A5%D0%BE%D1%82%D0%B5%D0%BB#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.949452,43.849286,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел  РУСЕ</name>
+			<description><![CDATA[Хотел  РУСЕ <br> View or update this place information at Wikimapia. (http://wikimapia.org/22765828/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%A0%D0%A3%D0%A1%D0%95#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.955176,43.84013900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Чарлино</name>
+			<description><![CDATA[Хотел Чарлино <br> View or update this place information at Wikimapia. (http://wikimapia.org/22896888/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%A7%D0%B0%D1%80%D0%BB%D0%B8%D0%BD%D0%BE#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.947003,43.84451,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Английска къща за гости</name>
+			<description><![CDATA[Английска къща за гости <br> View or update this place information at Wikimapia. (http://wikimapia.org/24604002/bg/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0-%D0%BA%D1%8A%D1%89%D0%B0-%D0%B7%D0%B0-%D0%B3%D0%BE%D1%81%D1%82%D0%B8#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.953099000000005,43.852058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Янтра&amp;quot;</name>
+			<description><![CDATA[Хотел "Янтра" <br> View or update this place information at Wikimapia. (http://wikimapia.org/21825680/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%AF%D0%BD%D1%82%D1%80%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.737606000000003,43.459303,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Къща за гости &amp;quot;The Summer&amp;quot;</name>
+			<description><![CDATA[Къща за гости "The Summer" <br> View or update this place information at Wikimapia. (http://wikimapia.org/26143252/bg/%D0%9A%D1%8A%D1%89%D0%B0-%D0%B7%D0%B0-%D0%B3%D0%BE%D1%81%D1%82%D0%B8-The-Summer#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.071978,43.916541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Одисей&amp;quot;</name>
+			<description><![CDATA[Хотел "Одисей" <br> View or update this place information at Wikimapia. (http://wikimapia.org/23187231/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9E%D0%B4%D0%B8%D1%81%D0%B5%D0%B9#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.949334,43.846854,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Одеса&amp;quot;</name>
+			<description><![CDATA[Хотел "Одеса" <br> View or update this place information at Wikimapia. (http://wikimapia.org/23304544/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9E%D0%B4%D0%B5%D1%81%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.733817,43.46072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Резиденс хаус&amp;quot;</name>
+			<description><![CDATA[Хотел "Резиденс хаус" <br> View or update this place information at Wikimapia. (http://wikimapia.org/33481958/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%A0%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%81-%D1%85%D0%B0%D1%83%D1%81#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.949727,43.850802,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>хотел Национал</name>
+			<description><![CDATA[хотел Национал <br> View or update this place information at Wikimapia. (http://wikimapia.org/10359219/bg/%D1%85%D0%BE%D1%82%D0%B5%D0%BB-%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.949715,43.839261,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Лилия&amp;quot;</name>
+			<description><![CDATA[Хотел "Лилия" <br> View or update this place information at Wikimapia. (http://wikimapia.org/24604036/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9B%D0%B8%D0%BB%D0%B8%D1%8F#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.953285,43.852093,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Семеен хотел Русе</name>
+			<description><![CDATA[Семеен хотел Русе <br> View or update this place information at Wikimapia. (http://wikimapia.org/17283873/bg/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B5%D0%BD-%D1%85%D0%BE%D1%82%D0%B5%D0%BB-%D0%A0%D1%83%D1%81%D0%B5#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.955075,43.840382,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел &amp;quot;Плаза&amp;quot;</name>
+			<description><![CDATA[Хотел "Плаза" <br> View or update this place information at Wikimapia. (http://wikimapia.org/23540380/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D0%9F%D0%BB%D0%B0%D0%B7%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.960004,43.852657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел-ресторант-бар &amp;quot;Верона&amp;quot;</name>
+			<description><![CDATA[Хотел-ресторант-бар "Верона" <br> View or update this place information at Wikimapia. (http://wikimapia.org/31771074/bg/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%82-%D0%B1%D0%B0%D1%80-%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.734634,43.460772,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Горски дом</name>
+			<description><![CDATA[Горски дом <br> View or update this place information at Wikimapia. (http://wikimapia.org/23538288/bg/%D0%93%D0%BE%D1%80%D1%81%D0%BA%D0%B8-%D0%B4%D0%BE%D0%BC#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.02024,43.679088,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа &amp;quot;Здравец&amp;quot;</name>
+			<description><![CDATA[Хижа "Здравец" <br> View or update this place information at Wikimapia. (http://wikimapia.org/13465529/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%B5%D1%86#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.037252,43.824704,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа Каяджика</name>
+			<description><![CDATA[Хижа Каяджика <br> View or update this place information at Wikimapia. (http://wikimapia.org/14515367/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%9A%D0%B0%D1%8F%D0%B4%D0%B6%D0%B8%D0%BA%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.947239,43.414276,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа &amp;quot;Горски кът&amp;quot;</name>
+			<description><![CDATA[Хижа "Горски кът" <br> View or update this place information at Wikimapia. (http://wikimapia.org/14477293/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%93%D0%BE%D1%80%D1%81%D0%BA%D0%B8-%D0%BA%D1%8A%D1%82#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.47218,43.776873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа &amp;quot;Приста&amp;quot;</name>
+			<description><![CDATA[Хижа "Приста" <br> View or update this place information at Wikimapia. (http://wikimapia.org/10368488/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%9F%D1%80%D0%B8%D1%81%D1%82%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.917842,43.800089,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ловна хижа &amp;quot;Бялалес&amp;quot;</name>
+			<description><![CDATA[Ловна хижа "Бялалес" <br> View or update this place information at Wikimapia. (http://wikimapia.org/14515168/bg/%D0%9B%D0%BE%D0%B2%D0%BD%D0%B0-%D1%85%D0%B8%D0%B6%D0%B0-%D0%91%D1%8F%D0%BB%D0%B0%D0%BB%D0%B5%D1%81#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.770074,43.40486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа &amp;quot;Люляк&amp;quot;</name>
+			<description><![CDATA[Хижа "Люляк" <br> View or update this place information at Wikimapia. (http://wikimapia.org/14515243/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%9B%D1%8E%D0%BB%D1%8F%D0%BA#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.947014000000003,43.37007100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>хижа &amp;quot;Янтра&amp;quot;</name>
+			<description><![CDATA[хижа "Янтра" <br> View or update this place information at Wikimapia. (http://wikimapia.org/16035502/bg/%D1%85%D0%B8%D0%B6%D0%B0-%D0%AF%D0%BD%D1%82%D1%80%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.774462,43.40769,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>хижа &amp;quot;Калето&amp;quot;</name>
+			<description><![CDATA[хижа "Калето" <br> View or update this place information at Wikimapia. (http://wikimapia.org/16035892/bg/%D1%85%D0%B8%D0%B6%D0%B0-%D0%9A%D0%B0%D0%BB%D0%B5%D1%82%D0%BE#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.213218000000005,43.449391,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа &amp;quot;Паламарца&amp;quot;</name>
+			<description><![CDATA[Хижа "Паламарца" <br> View or update this place information at Wikimapia. (http://wikimapia.org/29356399/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%9F%D0%B0%D0%BB%D0%B0%D0%BC%D0%B0%D1%80%D1%86%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.132044,43.415334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ловна хижа</name>
+			<description><![CDATA[Ловна хижа <br> View or update this place information at Wikimapia. (http://wikimapia.org/21429320/bg/%D0%9B%D0%BE%D0%B2%D0%BD%D0%B0-%D1%85%D0%B8%D0%B6%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.542577,43.576194,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ловна хижа</name>
+			<description><![CDATA[Ловна хижа <br> View or update this place information at Wikimapia. (http://wikimapia.org/14515416/bg/%D0%9B%D0%BE%D0%B2%D0%BD%D0%B0-%D1%85%D0%B8%D0%B6%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.938728,43.48470600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туристическа хижа</name>
+			<description><![CDATA[Туристическа хижа <br> View or update this place information at Wikimapia. (http://wikimapia.org/31107712/bg/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0-%D1%85%D0%B8%D0%B6%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.740586,43.533549,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ловна хижа &amp;quot;Баталкията&amp;quot;</name>
+			<description><![CDATA[Ловна хижа "Баталкията" <br> View or update this place information at Wikimapia. (http://wikimapia.org/14513920/bg/%D0%9B%D0%BE%D0%B2%D0%BD%D0%B0-%D1%85%D0%B8%D0%B6%D0%B0-%D0%91%D0%B0%D1%82%D0%B0%D0%BB%D0%BA%D0%B8%D1%8F%D1%82%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.118294,43.645512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа &amp;quot;Минзухар&amp;quot;</name>
+			<description><![CDATA[Хижа "Минзухар" <br> View or update this place information at Wikimapia. (http://wikimapia.org/19856549/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%9C%D0%B8%D0%BD%D0%B7%D1%83%D1%85%D0%B0%D1%80#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.055780000000002,43.821814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа</name>
+			<description><![CDATA[Хижа <br> View or update this place information at Wikimapia. (http://wikimapia.org/17241930/bg/%D0%A5%D0%B8%D0%B6%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.984489000000004,43.69543,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа Брестовица</name>
+			<description><![CDATA[Хижа Брестовица <br> View or update this place information at Wikimapia. (http://wikimapia.org/13794633/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%91%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B8%D1%86%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.766597,43.520414,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа &amp;quot;Янтра&amp;quot;</name>
+			<description><![CDATA[Хижа "Янтра" <br> View or update this place information at Wikimapia. (http://wikimapia.org/23453643/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%AF%D0%BD%D1%82%D1%80%D0%B0#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.670705,43.442993,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа &amp;quot;Алпинист&amp;quot;</name>
+			<description><![CDATA[Хижа "Алпинист" <br> View or update this place information at Wikimapia. (http://wikimapia.org/14364935/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%D0%90%D0%BB%D0%BF%D0%B8%D0%BD%D0%B8%D1%81%D1%82#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.953911,43.763835,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижа „Орлова чука“</name>
+			<description><![CDATA[Хижа „Орлова чука“ <br> View or update this place information at Wikimapia. (http://wikimapia.org/14515608/bg/%D0%A5%D0%B8%D0%B6%D0%B0-%E2%80%9E%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D0%B0-%D1%87%D1%83%D0%BA%D0%B0%E2%80%9C#ge)]]></description>
+			<styleUrl>#icon-1197</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.9589,43.593813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1197'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
