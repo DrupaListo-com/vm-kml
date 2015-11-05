@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovo",
+               "short_name" : "Ivanovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ivanovo",
+               "short_name" : "Ivanovo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ruse",
+               "short_name" : "Ruse",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7088",
+               "short_name" : "7088",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7088 Ivanovo, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6966152,
+                  "lng" : 25.965457
+               },
+               "southwest" : {
+                  "lat" : 43.67653199999999,
+                  "lng" : 25.9480472
+               }
+            },
+            "location" : {
+               "lat" : 43.6845558,
+               "lng" : 25.9561771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6966152,
+                  "lng" : 25.965457
+               },
+               "southwest" : {
+                  "lat" : 43.67653199999999,
+                  "lng" : 25.9480472
+               }
+            }
+         },
+         "place_id" : "ChIJg3ZZ57bxrkAREFe_aRKgAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
