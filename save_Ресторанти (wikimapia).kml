@@ -1,0 +1,804 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Ресторанти (wikimapia)</name>
+		<Placemark>
+			<name>Restaurant (en)</name>
+			<description><![CDATA[Restaurant (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.930826,43.970318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant Balanoaia Forest (en)</name>
+			<description><![CDATA[Restaurant Balanoaia Forest (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.930819,43.93057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мегамол</name>
+			<description><![CDATA[Мегамол ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.959092,43.857744,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел "Ханчето" (Русенското ханче)</name>
+			<description><![CDATA[Мотел "Ханчето" (Русенското ханче) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.015776,43.779583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел  "Дервента"</name>
+			<description><![CDATA[Мотел  "Дервента" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.278224,43.596955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Крайпътен ресторант "Байкал"</name>
+			<description><![CDATA[Крайпътен ресторант "Байкал" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.817844,43.555783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Индийски колиби"</name>
+			<description><![CDATA[Ресторант "Индийски колиби" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.898981,43.67989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Люляка (Hotel Lyulyaka) (en)</name>
+			<description><![CDATA[Хотел Люляка (Hotel Lyulyaka) (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.912065,43.8011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант и винарска изба "Левента".</name>
+			<description><![CDATA[Ресторант и винарска изба "Левента". ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.957829,43.824753,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Шилковата кръчма</name>
+			<description><![CDATA[Шилковата кръчма ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.98122,43.73814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local  summer fish restaurants (en)</name>
+			<description><![CDATA[Local  summer fish restaurants (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.245402,43.995389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant PERLA (en)</name>
+			<description><![CDATA[Restaurant PERLA (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.966771,43.87054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Парк ресторант - Хотел "Дунав плаза"</name>
+			<description><![CDATA[Парк ресторант - Хотел "Дунав плаза" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.955088,43.849227,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Семеен хотел "Орехите"</name>
+			<description><![CDATA[Семеен хотел "Орехите" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95191,43.715681,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Кенор"</name>
+			<description><![CDATA[Ресторант "Кенор" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.967128,43.858468,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Приетения (ru)</name>
+			<description><![CDATA[Приетения (ru) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.980292,43.908852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел „Космополитен“</name>
+			<description><![CDATA[Хотел „Космополитен“ ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.949719000000005,43.845542,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Отель-ресторан "Анадалузия" (ru)</name>
+			<description><![CDATA[Отель-ресторан "Анадалузия" (ru) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.974539,43.92785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Басейн и ресторант</name>
+			<description><![CDATA[Басейн и ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.973664,43.735306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел "Магнолия"</name>
+			<description><![CDATA[Мотел "Магнолия" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.714735,43.46885000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parizh/MOMO (en)</name>
+			<description><![CDATA[Parizh/MOMO (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.974177000000005,43.859049,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Търговски комплекс</name>
+			<description><![CDATA[Търговски комплекс ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.205418000000005,43.942259,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Плувен комплекс "Гунди"</name>
+			<description><![CDATA[Плувен комплекс "Гунди" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.875226,43.591489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел Комплекс Извора</name>
+			<description><![CDATA[Хотел Комплекс Извора ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.947895,43.842488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Разклона"</name>
+			<description><![CDATA[Ресторант "Разклона" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.311988,43.974654,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Трите бора"</name>
+			<description><![CDATA[Ресторант "Трите бора" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.87931,43.406302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Плаващ ресторант "Понтона"</name>
+			<description><![CDATA[Плаващ ресторант "Понтона" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95264,43.855758,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Баба Яга"</name>
+			<description><![CDATA[Ресторант "Баба Яга" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.964607,43.857588,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ирландски пъб "Тераса"</name>
+			<description><![CDATA[Ирландски пъб "Тераса" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.948922,43.850457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>restaurantul Ruse (ro)</name>
+			<description><![CDATA[restaurantul Ruse (ro) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.968515,43.892366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Дунавски кът</name>
+			<description><![CDATA[Дунавски кът ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.971591,43.862099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant Rustik (ro)</name>
+			<description><![CDATA[Restaurant Rustik (ro) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.966138,43.904589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.746269000000005,43.462075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мотел "Формула 1"</name>
+			<description><![CDATA[Мотел "Формула 1" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.722147,43.468801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pizetto Bar &amp;amp; Grill (ro)</name>
+			<description><![CDATA[Pizetto Bar & Grill (ro) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.969223,43.894216,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Restaurant "Alei" (en)</name>
+			<description><![CDATA[Restaurant "Alei" (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.963795,43.885607,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drink&amp;amp;Food Piccadilly (en)</name>
+			<description><![CDATA[Drink&Food Piccadilly (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95523,43.851087,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант „Артисти“</name>
+			<description><![CDATA[Ресторант „Артисти“ ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.989064,43.85108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Scufita Rosie (ro)</name>
+			<description><![CDATA[La Scufita Rosie (ro) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.120879,43.997206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бистро Сан Марино</name>
+			<description><![CDATA[Бистро Сан Марино ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.954176,43.845894,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Happy Fast Food (en)</name>
+			<description><![CDATA[Happy Fast Food (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.952435,43.848282,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Лидо"</name>
+			<description><![CDATA[Ресторант "Лидо" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.810047,43.487176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант Mario&amp;#039;s 2</name>
+			<description><![CDATA[Ресторант Mario's 2 ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.947988000000002,43.848062,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rotonda restaurant (en)</name>
+			<description><![CDATA[Rotonda restaurant (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.084094,43.919994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Салатен салон Рила</name>
+			<description><![CDATA[Салатен салон Рила ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.954924,43.842132,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Vlaşca (en)</name>
+			<description><![CDATA[Hotel Vlaşca (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.966766,43.88873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Янтра"</name>
+			<description><![CDATA[Ресторант "Янтра" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.737705,43.45944800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант-бар "Даскалови"</name>
+			<description><![CDATA[Ресторант-бар "Даскалови" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.874963000000005,43.40501,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Механа "Калимок"</name>
+			<description><![CDATA[Механа "Калимок" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.463689,44.000647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shop (en)</name>
+			<description><![CDATA[Shop (en) ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.877716000000003,43.403286,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант Mario&amp;#039;s</name>
+			<description><![CDATA[Ресторант Mario's ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.959842,43.849902,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Болгар"</name>
+			<description><![CDATA[Ресторант "Болгар" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.956421,43.852913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бивш ресторант "Дунавски кът"</name>
+			<description><![CDATA[Бивш ресторант "Дунавски кът" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.109231,43.951734,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.976489,43.704139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Салатен салон Пристан</name>
+			<description><![CDATA[Салатен салон Пристан ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.955755,43.844594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.741553,43.458865,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "La Strada"</name>
+			<description><![CDATA[Ресторант "La Strada" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.955387,43.851198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Механа "Сръбски мерак"</name>
+			<description><![CDATA[Механа "Сръбски мерак" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.953305,43.83895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Приятели"</name>
+			<description><![CDATA[Ресторант "Приятели" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95028,43.851346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Италиански ресторант "Слънчевата къща"</name>
+			<description><![CDATA[Италиански ресторант "Слънчевата къща" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95332,43.847076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.901609000000004,43.458355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Петък вечер"</name>
+			<description><![CDATA[Ресторант "Петък вечер" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.965674,43.847354,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.288267,43.817372,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.082473,43.847369,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Амфибия"</name>
+			<description><![CDATA[Ресторант "Амфибия" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.952011,43.846223,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Барче</name>
+			<description><![CDATA[Барче ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.963512,43.829508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Останкино"</name>
+			<description><![CDATA[Ресторант "Останкино" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.957524,43.852277,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ул. Константин Иречек, 5</name>
+			<description><![CDATA[ул. Константин Иречек, 5 ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.950581,43.846503,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Снек бар "Бялата къща"</name>
+			<description><![CDATA[Снек бар "Бялата къща" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.734986,43.46066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.235093,43.93033,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бага  Бар</name>
+			<description><![CDATA[Бага  Бар ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.979911,43.83101,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел "Плаза"</name>
+			<description><![CDATA[Хотел "Плаза" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.960004,43.852657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Старата Къща"</name>
+			<description><![CDATA[Ресторант "Старата Къща" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.874995,43.591183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант "Friendly haus"</name>
+			<description><![CDATA[Ресторант "Friendly haus" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95329,43.847919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.873119,43.641292,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хотел-ресторант-бар "Верона"</name>
+			<description><![CDATA[Хотел-ресторант-бар "Верона" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.734634,43.460772,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Барбекю - градина "Зад стената"</name>
+			<description><![CDATA[Барбекю - градина "Зад стената" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.950591,43.847383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ресторант</name>
+			<description><![CDATA[Ресторант ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.737126,43.458144,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бистро "Вазата"</name>
+			<description><![CDATA[Бистро "Вазата" ]]></description>
+			<styleUrl>#icon-1085</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.963806,43.856383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1085'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

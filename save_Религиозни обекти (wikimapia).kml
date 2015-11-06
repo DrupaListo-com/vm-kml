@@ -1,0 +1,1754 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Религиозни обекти (wikimapia)</name>
+		<Placemark>
+			<name>Природен парк "Русенски Лом"</name>
+			<description><![CDATA[Природен парк "Русенски Лом" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.064291000000004,43.651095,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ивановски скални църкви</name>
+			<description><![CDATA[Ивановски скални църкви ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.9901871,43.698348,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Манастир "Св. Марина"</name>
+			<description><![CDATA[Манастир "Св. Марина" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.006119,43.47853,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Стар манастир</name>
+			<description><![CDATA[Стар манастир ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.926404,43.430655,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Копривецки манастир "Света Петка"</name>
+			<description><![CDATA[Копривецки манастир "Света Петка" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.876949,43.412818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Монастырь Святого великомученника Георге (Георгия) (ru)</name>
+			<description><![CDATA[Монастырь Святого великомученника Георге (Георгия) (ru) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.972003,43.919881,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скален манастир "Св.Димитър Басарбовски"</name>
+			<description><![CDATA[Скален манастир "Св.Димитър Басарбовски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.964872,43.766693,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Голям нисовски скален манастир ,,Св.св. Константин и Елена"</name>
+			<description><![CDATA[Голям нисовски скален манастир ,,Св.св. Константин и Елена" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.065825,43.624866,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скален манастирски комплекс "Грамовец"</name>
+			<description><![CDATA[Скален манастирски комплекс "Грамовец" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.995648,43.68367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Крепчански скален манастир</name>
+			<description><![CDATA[Крепчански скален манастир ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.118482,43.468365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скален манастир</name>
+			<description><![CDATA[Скален манастир ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.969459,43.72807,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скална църква Св. Богородица</name>
+			<description><![CDATA[Скална църква Св. Богородица ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.987226,43.69459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mанастир "Малък Рай"</name>
+			<description><![CDATA[Mанастир "Малък Рай" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.015314000000004,43.641889000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скална църква при с.Табачка</name>
+			<description><![CDATA[Скална църква при с.Табачка ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.982936,43.613169,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Епископска резиденция</name>
+			<description><![CDATA[Епископска резиденция ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.017175000000005,43.620583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Божия църква на повидението</name>
+			<description><![CDATA[Божия църква на повидението ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.874551,43.594029,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ивановски скални църкви</name>
+			<description><![CDATA[Ивановски скални църкви ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.9898009,43.6984644,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Свети Димитър"</name>
+			<description><![CDATA[Православен храм "Свети Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.172132,43.769506,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свето Възнесение Господне"</name>
+			<description><![CDATA[Храм "Свето Възнесение Господне" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.34308,43.962028,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Иван Рилски"</name>
+			<description><![CDATA[Храм "Свети Иван Рилски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.326273000000004,43.931532,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скален манастир "Св.Димитър Басарбовски"</name>
+			<description><![CDATA[Скален манастир "Св.Димитър Басарбовски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.964872,43.766693,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Троица"</name>
+			<description><![CDATA[Православен храм "Св. Троица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.97996,43.736253,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Свети Никола"</name>
+			<description><![CDATA[Църква "Свети Никола" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.366666,43.997176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. апостоли Петър и Павел"</name>
+			<description><![CDATA[Православен храм "Св. апостоли Петър и Павел" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.831452,43.708976,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.882909,43.502426,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica Frasinu (en)</name>
+			<description><![CDATA[Biserica Frasinu (en) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.019898,44.026236,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Св. Архангел Михаил"</name>
+			<description><![CDATA[Храм "Св. Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.352494,43.432406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Арменска църква</name>
+			<description><![CDATA[Арменска църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.948749,43.834241,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica Silistea (ro)</name>
+			<description><![CDATA[Biserica Silistea (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.468272,43.994188,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>drumul corect (ro)</name>
+			<description><![CDATA[drumul corect (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.847735000000004,43.774433,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Свети Архангел Михаил"</name>
+			<description><![CDATA[Църква "Свети Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.114915000000003,43.932524,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Свето Богоявление"</name>
+			<description><![CDATA[Църква "Свето Богоявление" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.43449,43.360567,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica Ortodoxa Gaujani (ro)</name>
+			<description><![CDATA[Biserica Ortodoxa Gaujani (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.711088,43.737289,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Великомъченик Димитрий"</name>
+			<description><![CDATA[Храм "Свети Великомъченик Димитрий" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.456978,43.368215,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Св. Възнесение"</name>
+			<description><![CDATA[Храм "Св. Възнесение" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.174535,43.671209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Евангелистка методистка църква</name>
+			<description><![CDATA[Евангелистка методистка църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.231234,43.837834,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Св. Кирил и Методий"</name>
+			<description><![CDATA[Православен храм "Св. Св. Кирил и Методий" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.93695,43.806934,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Great Martyr George and Dormition of the Theotokos Orthodox Cathedral (en)</name>
+			<description><![CDATA[St. Great Martyr George and Dormition of the Theotokos Orthodox Cathedral (en) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.966079,43.891684,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Георги"</name>
+			<description><![CDATA[Храм "Свети Георги" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.917561,43.522537,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Успение Богородично"</name>
+			<description><![CDATA[Църква "Успение Богородично" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.31041,43.560833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Св. Димитър"</name>
+			<description><![CDATA[Църква "Св. Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.140487,43.50918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Катедрален храм "Света Троица"</name>
+			<description><![CDATA[Катедрален храм "Света Троица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.956842,43.847737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Голям нисовски скален манастир ,,Св.св. Константин и Елена"</name>
+			<description><![CDATA[Голям нисовски скален манастир ,,Св.св. Константин и Елена" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.065825,43.624866,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Георги</name>
+			<description><![CDATA[Храм "Свети Георги ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.957035,43.836899,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Троица"</name>
+			<description><![CDATA[Храм "Света Троица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.280731,43.37896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.188128,43.568112,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Богородица"</name>
+			<description><![CDATA[Храм "Света Богородица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.532569,43.465766,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Свети Иван Рилски"</name>
+			<description><![CDATA[Църква "Свети Иван Рилски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.250758000000005,43.534083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Параскева"</name>
+			<description><![CDATA[Храм "Света Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.897608,43.45957,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Троица"</name>
+			<description><![CDATA[Храм "Света Троица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.292939,43.483294,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Епископска резиденция</name>
+			<description><![CDATA[Епископска резиденция ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.017175000000005,43.620583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Параскева"</name>
+			<description><![CDATA[Храм "Света Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.566670000000002,43.407628,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Троица"</name>
+			<description><![CDATA[Храм "Света Троица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.741483000000002,43.35972,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica Smarda (ro)</name>
+			<description><![CDATA[Biserica Smarda (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.977017,43.893528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica (ro)</name>
+			<description><![CDATA[Biserica (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.950761000000004,43.912941,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Параскева"</name>
+			<description><![CDATA[Православен храм "Св. Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.385389000000004,43.736868,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Всех Святих"</name>
+			<description><![CDATA[Църква "Всех Святих" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.963052,43.85347,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква №2</name>
+			<description><![CDATA[Църква №2 ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.020868,43.622776,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica Ortodoxa Pietrosani (ro)</name>
+			<description><![CDATA[Biserica Ortodoxa Pietrosani (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.636554,43.708646,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Гръцка православна църква "Благовещение"</name>
+			<description><![CDATA[Гръцка православна църква "Благовещение" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.9636,43.888973,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Church "Ascension of the Lord" (en)</name>
+			<description><![CDATA[Church "Ascension of the Lord" (en) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.968301,43.898238000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква Св. Петка</name>
+			<description><![CDATA[Църква Св. Петка ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.948111,43.830527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Успение Богородично"</name>
+			<description><![CDATA[Църква "Успение Богородично" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.808247,43.498001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Рождество Богородично"</name>
+			<description><![CDATA[Храм "Рождество Богородично" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.401123,43.454297000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Свети Георги"</name>
+			<description><![CDATA[Православен храм "Свети Георги" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.737355,43.459664,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Архангел Михаил"</name>
+			<description><![CDATA[Храм "Свети Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.103585,43.363637,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Георги"</name>
+			<description><![CDATA[Храм "Свети Георги" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.333315,43.650873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Възкресение Лазарово"</name>
+			<description><![CDATA[Храм "Възкресение Лазарово" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.28393,43.479054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.685776,43.855075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica Sf. Gheorghe (ro)</name>
+			<description><![CDATA[Biserica Sf. Gheorghe (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.958993000000003,43.889236,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Успение Богородично"</name>
+			<description><![CDATA[Църква "Успение Богородично" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.379937,43.600184,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.949557,43.774153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Георги"</name>
+			<description><![CDATA[Храм "Свети Георги" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.157873000000002,43.437716,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Димитър"</name>
+			<description><![CDATA[Храм "Свети Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.996317,43.383955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Димитър"</name>
+			<description><![CDATA[Храм "Свети Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.024134,43.614155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Свети Николай"</name>
+			<description><![CDATA[Църква "Свети Николай" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.041614,43.714153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Баптистка църква</name>
+			<description><![CDATA[Баптистка църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.954875000000005,43.844029,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Параскева"</name>
+			<description><![CDATA[Храм "Света Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.133705,43.584766,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм Свети Архангел Михаил</name>
+			<description><![CDATA[Храм Свети Архангел Михаил ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.108319,43.808264,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Свети Димитър"</name>
+			<description><![CDATA[Православен храм "Свети Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.094941,43.855589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Георги"</name>
+			<description><![CDATA[Православен храм "Св. Георги" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.957117,43.68354,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.961078,43.975576,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Иван Рилски"</name>
+			<description><![CDATA[Храм "Свети Иван Рилски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.265982,43.70189200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Димитър"</name>
+			<description><![CDATA[Православен храм "Св. Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.402121,43.524647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.680226,43.863554,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gostinu Church (en)</name>
+			<description><![CDATA[Gostinu Church (en) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.123879,43.994208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.58461,43.627588,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Атанасий"</name>
+			<description><![CDATA[Храм "Свети Атанасий" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.204058,43.509009,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica Sf. Nicolae (ro)</name>
+			<description><![CDATA[Biserica Sf. Nicolae (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.961977,43.885136,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica ortodoxa Pietrisu (ro)</name>
+			<description><![CDATA[Biserica ortodoxa Pietrisu (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.671425,43.724344,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Георги"</name>
+			<description><![CDATA[Храм "Свети Георги" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.298523,43.883878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Успение на Пресвета Богородица"</name>
+			<description><![CDATA[Църква "Успение на Пресвета Богородица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.982618,43.609143,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Архангел Михаил"</name>
+			<description><![CDATA[Храм "Свети Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.882932,43.404225,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Въведение Богородично"</name>
+			<description><![CDATA[Храм "Въведение Богородично" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.995811,43.501384,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Свети Пророк Илия"</name>
+			<description><![CDATA[Православен храм "Свети Пророк Илия" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.183605,43.8072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм Св. Николай</name>
+			<description><![CDATA[Храм Св. Николай ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.947688,43.848668,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Света Параскева"</name>
+			<description><![CDATA[Православен храм "Света Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.288964,43.81605100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica ortodoxa Cetatuia (ro)</name>
+			<description><![CDATA[Biserica ortodoxa Cetatuia (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.746052,43.75756500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Св. Константин и Елена"</name>
+			<description><![CDATA[Църква "Св. Константин и Елена" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.659215,43.422051,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Света Троица"</name>
+			<description><![CDATA[Православен храм "Света Троица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.87342,43.594579,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.781901,43.616998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.661112,43.881367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Св. Богодорица</name>
+			<description><![CDATA[Св. Богодорица ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.970202,43.85855200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica ortodoxa Malu (ro)</name>
+			<description><![CDATA[Biserica ortodoxa Malu (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.819066,43.812831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Архангел Михаил"</name>
+			<description><![CDATA[Храм "Свети Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.333137,43.472713,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Въздвижение на св. Кръст"</name>
+			<description><![CDATA[Храм "Въздвижение на св. Кръст" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.406938,43.97784,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Св. Архангел Михаил"</name>
+			<description><![CDATA[Храм "Св. Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.402148,43.911644,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Георги"</name>
+			<description><![CDATA[Храм "Свети Георги" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.250077,43.988098,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica Crestina Advestista de ziua a 7-a Gaujani (ro)</name>
+			<description><![CDATA[Biserica Crestina Advestista de ziua a 7-a Gaujani (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.713562,43.738708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.811154,43.583066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм „Св. Димитър"</name>
+			<description><![CDATA[Православен храм „Св. Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.473357,43.544173,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Свети Димитър"</name>
+			<description><![CDATA[Църква "Свети Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.676706,43.386315,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Св. Великомъченик Димитър"</name>
+			<description><![CDATA[Храм "Св. Великомъченик Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.413197,43.431589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Евангелска Методистка Епископална Църква</name>
+			<description><![CDATA[Евангелска Методистка Епископална Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.953435,43.845713,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Богородица"</name>
+			<description><![CDATA[Храм "Света Богородица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.35339,43.902257,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Димитър"</name>
+			<description><![CDATA[Храм "Свети Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.731678,43.630483,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Димитър"</name>
+			<description><![CDATA[Храм "Свети Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.866613,43.385775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Св. Равноапостоли Петър и Павел"</name>
+			<description><![CDATA[Църква "Св. Равноапостоли Петър и Павел" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.390259,43.553006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Архангел Михаил"</name>
+			<description><![CDATA[Храм "Свети Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.263134,43.436775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Димитър Солунски"</name>
+			<description><![CDATA[Храм "Свети Димитър Солунски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.204152,43.945995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.908559,43.856258000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свето Възнесение"</name>
+			<description><![CDATA[Храм "Свето Възнесение" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.526513,43.548171,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Света Петка"</name>
+			<description><![CDATA[Църква "Света Петка" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.075678,43.500359,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Св. Архангел Михаил</name>
+			<description><![CDATA[Св. Архангел Михаил ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.985214,43.851698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Параскева"</name>
+			<description><![CDATA[Православен храм "Св. Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.853602,43.667544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Димитър"</name>
+			<description><![CDATA[Православен храм "Св. Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.587603,43.60793,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Параскева"</name>
+			<description><![CDATA[Храм "Света Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.194444,43.40312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Троица"</name>
+			<description><![CDATA[Храм "Света Троица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.303214,43.982095,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Богородица"</name>
+			<description><![CDATA[Храм "Света Богородица" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.371807000000004,43.646025,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Архангел Михаил"</name>
+			<description><![CDATA[Храм "Свети Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.153684,43.53705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.795552,43.526338,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква "Света Параскева"</name>
+			<description><![CDATA[Църква "Света Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.81355,43.475654000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Димитър"</name>
+			<description><![CDATA[Храм "Свети Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.944259,43.58749,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Богоявление"</name>
+			<description><![CDATA[Православен храм "Богоявление" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.857477,43.734766,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Св. Архангел Михаил"</name>
+			<description><![CDATA[Храм "Св. Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.234708,43.931882,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Св. Въведение Богородично"</name>
+			<description><![CDATA[Храм "Св. Въведение Богородично" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.399433,43.411792,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.084354,43.923097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.793791,43.898732,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Иван Рилски"</name>
+			<description><![CDATA[Православен храм "Св. Иван Рилски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.95774,43.719564,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.933143,43.951404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.809138,43.891585,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Иван Рилски"</name>
+			<description><![CDATA[Храм "Свети Иван Рилски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.969097,43.534442,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Успение Богородично"</name>
+			<description><![CDATA[Православен храм "Успение Богородично" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.107908,43.867475,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Архангел Михаил"</name>
+			<description><![CDATA[Храм "Свети Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.995282,43.66095,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм Свети Архангел Михаил</name>
+			<description><![CDATA[Храм Свети Архангел Михаил ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.940609,43.554558,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Иван Рилски"</name>
+			<description><![CDATA[Храм "Свети Иван Рилски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.870698,43.528305,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Иван Рилски"</name>
+			<description><![CDATA[Храм "Свети Иван Рилски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.341185,43.382041,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Параскева"</name>
+			<description><![CDATA[Храм "Света Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.702429,43.524365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Св. Димитър"</name>
+			<description><![CDATA[Храм "Св. Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.238004,43.612445,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скална църква Москов дол</name>
+			<description><![CDATA[Скална църква Москов дол ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.016853,43.623245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.584742,43.539606,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Успение Богородично"</name>
+			<description><![CDATA[Храм "Успение Богородично" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.059142,43.536504,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Георги"</name>
+			<description><![CDATA[Храм "Свети Георги" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.229751,43.83813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Параскева"</name>
+			<description><![CDATA[Православен храм "Св. Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.661402,43.538335,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biserica Mănăstirii Sf. Ioan Rusul (ro)</name>
+			<description><![CDATA[Biserica Mănăstirii Sf. Ioan Rusul (ro) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.9004,43.872448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Свети Димитър"</name>
+			<description><![CDATA[Православен храм "Свети Димитър" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.104773,43.73884,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.641482,43.565951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Св. Възнесение</name>
+			<description><![CDATA[Св. Възнесение ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.96086,43.830934,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.58797,43.475572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.679314,43.65693,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Свети Георги"</name>
+			<description><![CDATA[Православен храм "Свети Георги" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.396493,43.814913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скална църква Св. Богородица</name>
+			<description><![CDATA[Скална църква Св. Богородица ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.987226,43.69459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.611801,43.579208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свето Възнесение"</name>
+			<description><![CDATA[Храм "Свето Възнесение" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.607554,43.364464,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Света Параскева"</name>
+			<description><![CDATA[Православен храм "Света Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.170199,43.863956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.631922,43.969331,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Църква</name>
+			<description><![CDATA[Църква ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.640643,43.981731,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Иван Рилски"</name>
+			<description><![CDATA[Храм "Свети Иван Рилски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.753899,43.532866,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Православен храм "Св. Параскева"</name>
+			<description><![CDATA[Православен храм "Св. Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.960473,43.690414000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Димитър Солунски"</name>
+			<description><![CDATA[Храм "Свети Димитър Солунски" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.253216,43.857866,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Monastery church (en)</name>
+			<description><![CDATA[Monastery church (en) ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.972441,43.919778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Света Параскева"</name>
+			<description><![CDATA[Храм "Света Параскева" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.61425,43.614068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скална църква при с.Табачка</name>
+			<description><![CDATA[Скална църква при с.Табачка ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.982936,43.613169,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм "Свети Архангел Михаил"</name>
+			<description><![CDATA[Храм "Свети Архангел Михаил" ]]></description>
+			<styleUrl>#icon-1317</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.597265,43.445294,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1317'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1317-poi-religious-generic.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
